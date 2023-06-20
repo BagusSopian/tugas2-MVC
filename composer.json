@@ -1,0 +1,19 @@
+{
+    "name": "bagussopian12/pbwl-tugas2",
+    "description": "Praktikum SI-MVC Pemrograman Berbasis Web Lanjutan 2023",
+    "type": "project",
+    "authors": [
+        {
+            "name": "bagussopian12",
+            "email": "bagussopian12@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
